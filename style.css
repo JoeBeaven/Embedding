@@ -1,0 +1,7 @@
+#showViz {
+  display: none;
+}
+
+button:hover {
+  background-color: lightblue;
+}
